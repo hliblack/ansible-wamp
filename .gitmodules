@@ -1,0 +1,3 @@
+[submodule "ansible-template"]
+	path = ansible-template
+	url = https://github.com/Websoft9/ansible-template.git
