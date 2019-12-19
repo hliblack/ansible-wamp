@@ -14,22 +14,22 @@ dbForge: http://libs-websoft9-com.oss-cn-qingdao.aliyuncs.com/apps/Windows/dbfor
 vc:
   vc2008:
     id: vc++2008
-    url: http://libs-websoft9-com.oss-cn-qingdao.aliyuncs.com/apps/Windows/vcredist_2008_x64.exe
+    url: http://libs.websoft9.com/apps/Windows/vcredist_2008_x64.exe
     name: vc++2008.exe
   vc2010:
     id: vc++2010
-    url: http://libs-websoft9-com.oss-cn-qingdao.aliyuncs.com/apps/Windows/vcredist_2010_x64.exe
+    url: http://libs.websoft9.com/apps/Windows/vcredist_2010_x64.exe
     name: vc++2010.exe
   vc2012:
     id: vc++2012
-    url: http://libs-websoft9-com.oss-cn-qingdao.aliyuncs.com/apps/Windows/vcredist_2012_x64.exe
+    url: http://libs.websoft9.com/apps/Windows/vcredist_2012_x64.exe
     name: vc++2012.exe
   vc2013:
     id: vc++2013
-    url: http://libs-websoft9-com.oss-cn-qingdao.aliyuncs.com/apps/Windows/vcredist_2013_x64.exe
+    url: http://libs.websoft9.com/apps/Windows/vcredist_2013_x64.exe
     name: vc++2013.exe
   vc++:
     id: vc++2015
-    url: http://libs-websoft9-com.oss-cn-qingdao.aliyuncs.com/apps/Windows/vc_redist_2015_2019.x64.exe
+    url: http://libs.websoft9.com/apps/Windows/vc_redist_2015_2019.x64.exe
     name: vc++2015.exe
 
